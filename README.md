@@ -111,5 +111,5 @@ Pavan Kumar - pavankumpavankumard.pg19.ma@nitp.ac.in
 
 LinkedIn: [linkedin.com/in/im-pavankumar](https://www.linkedin.com/in/im-pavankumar/)
 
-Project Link: https://github.com/ascender1729/ClearSpeak
+Project Link: [ClearSpeak](https://github.com/ascender1729/ClearSpeak)
 
