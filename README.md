@@ -1,5 +1,4 @@
 
-```markdown
 # ClearSpeak
 
 Developed by Pavan Kumar, ClearSpeak is a Python application that utilizes Google's Speech-to-Text API for real-time audio transcription. The application includes a user-friendly graphical interface built with Tkinter, designed to provide clear transcription of human speech while filtering out background noise.
@@ -114,4 +113,3 @@ LinkedIn: [linkedin.com/in/im-pavankumar](https://www.linkedin.com/in/im-pavanku
 
 Project Link: https://github.com/ascender1729/ClearSpeak
 
-```
