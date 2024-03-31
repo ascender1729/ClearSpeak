@@ -107,7 +107,7 @@ This project is available under the MIT License.
 
 ## Contact
 
-Pavan Kumar - pavankumpavankumard.pg19.ma@nitp.ac.in
+Pavan Kumar - pavankumard.pg19.ma@nitp.ac.in
 
 LinkedIn: [linkedin.com/in/im-pavankumar](https://www.linkedin.com/in/im-pavankumar/)
 
